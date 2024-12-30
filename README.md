@@ -1,0 +1,2 @@
+deps:
+polyscope & libigl 
